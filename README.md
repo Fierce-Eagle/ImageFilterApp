@@ -13,12 +13,13 @@
 ![image](https://user-images.githubusercontent.com/58427888/158180883-0699ad33-3066-4096-9897-637906627acd.png)
 
 Добавление шумов
-![image](https://user-images.githubusercontent.com/58427888/158181522-a4c7b130-bdec-4e4d-ac38-dae65d54a42a.png)
+![image](https://user-images.githubusercontent.com/58427888/158184060-d7010d11-bf05-4aa0-b380-1457ad86ee98.png)
 
 Акварелизация
+![image](https://user-images.githubusercontent.com/58427888/158181203-d473d1b3-04ce-422a-b8d0-775ad809dcc0.png)
 
 Сделать черно-белое изображение
-![image](https://user-images.githubusercontent.com/58427888/158181203-d473d1b3-04ce-422a-b8d0-775ad809dcc0.png)
+![image](https://user-images.githubusercontent.com/58427888/158181522-a4c7b130-bdec-4e4d-ac38-dae65d54a42a.png)
 
 Сделать в оттенках серого
 ![image](https://user-images.githubusercontent.com/58427888/158181764-2b82ca18-0c2c-45e8-bcb3-a6fe709aa282.png)
